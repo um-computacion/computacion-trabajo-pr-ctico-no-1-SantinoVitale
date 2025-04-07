@@ -1,6 +1,5 @@
 import unittest
 from src.roman_converter import decimal_to_roman 
-# Va a fallar porque no existe el archivo aún con la funcion decimal_to_roman
 
 
 class TestRomanConverter(unittest.TestCase):
